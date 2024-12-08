@@ -144,5 +144,5 @@ void setup() {
 }
 
 void loop() {
-  // No actions required in loop as scanning is handled in a separate task
+  // No actions  required in loop as scanning is handled in a separate task
 }
